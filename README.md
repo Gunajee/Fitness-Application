@@ -83,7 +83,3 @@ cd Fitness-Application
 | POST   | /api/auth/login  | Login user and receive JWT |
 | GET    | /api/workouts    | Fetch workout list         |
 | POST   | /api/diet/ai     | Get AI-generated diet plan |
-👨‍💻 Author
-Guna Mathesan
-🔗 LinkedIn
-🐙 GitHub
